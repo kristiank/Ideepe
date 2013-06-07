@@ -1,0 +1,19 @@
+siin antud kontseptsioon kehtib tekstisisuga failide kohta:
+- mille võimalikud muudatused ajas on väiksed parandused, ning
+- failide "jätkamine" (uus info lisandub vana teksti lõppuotsa)
+- uute failide lisandumine
+- väga väikses ulatuses ehk ka failide kustutamine
+
+üleslaadimine käib netiliidese kaudu:
+- kus saab valida failid
+- kus saab lisada kommentaari (mis käib kõikide üleslaetud failide kohta)
+- ? kuidas kustutada faile ?
+
+kaks aja korrastamise võimalust:
+1) iga üleslaadimine tekitab uue kõrvalharu
+- on lihtne liikuda edasi tagasi eri aegade ja failide kooseisude vahel
+- on võimalik mestida kahte eri 
+- ? aga kuidas peaks eri harude mestimine käima ?
+
+2) iga üleslaadimine tekitab lihtsalt uue seriaalse 'seisu'
+- on võimalik taastada eelmiseid seisundeid, aga raske mestida neid kokku
