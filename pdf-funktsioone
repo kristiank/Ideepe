@@ -1,0 +1,10 @@
+# pdf cut-up #
+
+tähendab, et kõik tekst mis on nt esile tõstetud ning samuti graafilised
+elemendid, milledele on "ringi peale tõmmatud", koondatakse automaatselt
+ühte kokkuvõtvasse vaatesse (või eraldi faili). Sellise funktsiooni abil
+saaks esimese lugemise puhul valida kõik mis endale huvi pakub, ja
+pärast võib lugeda n.ö komprimeeritud versiooni sellest.
+
+* á la Burroughs (http://en.wikipedia.org/wiki/Cut-up_technique)
+* sarnaneb ehk täna päeva "mashup"-idega (http://en.wikipedia.org/wiki/Mashup_%28web_application_hybrid%29)
